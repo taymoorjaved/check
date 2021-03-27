@@ -1,0 +1,28 @@
+.calContainer {
+  margin: 80px auto;
+  width: 300px;
+}
+
+button {
+  cursor: pointer;
+  border: 0.3px solid black;
+  width: 75px;
+  height: 75px;
+}
+
+.calDisplay {
+  background: black;
+  width: 100%;
+  font-size: 70px;
+  color: white;
+  text-align: right;
+}
+
+.equalBtn {
+  height: 150px;
+  position: absolute;
+}
+
+.fourthRow button {
+  background: #c4c3cc;
+}
